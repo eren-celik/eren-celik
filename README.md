@@ -32,5 +32,5 @@
 
 ### 🎧 Now Playing
 
-[<p align="center"> <img src="https://spotify-readme-stat.vercel.app/api/run-spotify-status" alt="Playing Now" width="600" /></p>](https://open.spotify.com/user/elik.dark91tr)
+[![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/elik.dark91tr)
 
