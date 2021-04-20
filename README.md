@@ -5,12 +5,12 @@
 ### 🛠 Tech Stack
 ![Dart](https://img.shields.io/badge/Dart-05122A?style=for-the-badge&logo=dart&logoColor=29B6F6)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-05122A?style=for-the-badge&logo=flutter&logoColor=02569B)&nbsp;
-![Swift](https://img.shields.io/badge/swift-5.1-orange?style=for-the-badge&logo=swift)&nbsp;
+![Swift](https://img.shields.io/badge/Swift?style=for-the-badge&logo=swift&logoColor=FFA500)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5&logoColor=E34F26)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=appveyor&logoColor=239120)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=css&logoColor=239120)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&logo=bootstrap)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=appveyor&logo=git)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=appveyor&logoColor=007ACC)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=vscode&logoColor=007ACC)&nbsp;
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
