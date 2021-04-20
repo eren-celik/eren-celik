@@ -40,9 +40,11 @@
   
 <a href="https://stackoverflow.com/users/13615372/eren-Çelik" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" alt="stackoverflow" /></a>
 
-### 📩📨 Contact Me ! 
 
-<a href="elik.dark91@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="stackoverflow" /></a>
+
+### 📩 Contact Me ! 
+
+<a href="mailto:elik.dark91@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="stackoverflow" /></a>
 
 
 ### 🎧 Now Playing
