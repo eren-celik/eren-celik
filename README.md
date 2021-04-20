@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Eren</h1>
 <h3 align="center">Mobile Application Developer from Ordu</h3>
 - 🔭 I’m currently working on <a href="https://apps.apple.com/tr/app/aviled-avize/id1554810525">Aviled Avize Ios</a>
-<a href="https://play.google.com/store/apps/details?id=com.atlas.aviled">Aviled Avize Android</a>
+- <a href="https://play.google.com/store/apps/details?id=com.atlas.aviled">Aviled Avize Android</a>
+
 ### 🛠 Tech Stack
 ![Dart](https://img.shields.io/badge/Dart-05122A?style=for-the-badge&logo=dart&logoColor=29B6F6)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-05122A?style=for-the-badge&logo=flutter&logoColor=02569B)&nbsp;
