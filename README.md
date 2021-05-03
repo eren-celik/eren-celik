@@ -35,20 +35,9 @@
 
 ### 🤝🏻 Social
 
-<div class="container" style="display: flex; height: 100px;">
-  <div style="width: 50%; background: green;">
-    <a href="https://www.linkedin.com/in/erencelikk/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Medium" /></a>
-  </div>
-  <div style="flex-grow: 1; background: blue;">
-        <a href="https://eren-celik.medium.com" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="LinkedIn" /></a>
-  </div>
-</div>
 
-
-
-  
-
-  
+<a href="https://www.linkedin.com/in/erencelikk/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Medium" /></a>
+ <a href="https://www.linkedin.com/in/erencelikk/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Medium" /></a>
 <a href="https://stackoverflow.com/users/13615372/eren-Çelik" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow" /></a>
 
 <hr class="dotted">
