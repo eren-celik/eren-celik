@@ -3,6 +3,8 @@
 - 🔭 I’m currently working on <a href="https://apps.apple.com/tr/app/aviled-avize/id1554810525">Aviled Avize Ios</a>
 - <a href="https://play.google.com/store/apps/details?id=com.atlas.aviled">Aviled Avize Android</a>
 
+<hr class="dotted">
+
 ### 🛠 Tech Stack
 ![Dart](https://img.shields.io/badge/Dart-05122A?style=for-the-badge&logo=dart&logoColor=29B6F6)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-05122A?style=for-the-badge&logo=flutter&logoColor=02569B)&nbsp;
@@ -18,9 +20,7 @@
 ![Mongo DB](https://img.shields.io/badge/MongoDB-05122A?style=for-the-badge&logo=mongodb&logoColor=green)&nbsp;
 ![Firebase](https://img.shields.io/badge/firebase-05122A?style=for-the-badge&logo=firebase&logoColor=yellow)&nbsp;
 
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<hr class="dotted">
 
 ### 📊 GitHub Analytics
 
@@ -31,6 +31,8 @@
 </a>
 </p>
 
+<hr class="dotted">
+
 ### 🤝🏻 Social
 
 <p align="left">
@@ -40,12 +42,13 @@
   
 <a href="https://stackoverflow.com/users/13615372/eren-Çelik" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" alt="stackoverflow" /></a>
 
-<hr class="dashed">
+<hr class="dotted">
 
 ### 📩 Contact Me ! 
 
 <a href="mailto:elik.dark91@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="stackoverflow" /></a>
 
+<hr class="dotted">
 
 ### 🎧 Now Playing
 
