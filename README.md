@@ -35,8 +35,15 @@
 
 ### 🤝🏻 Social
 
-<p align="left">
-<a href="https://eren-celik.medium.com" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="LinkedIn" /></a>
+<div style="width: 100%;">
+  <div style="width: 50%; height: 100px; float: left; background: green;"> 
+    Left Div 
+  </div>
+  <div> 
+    <a href="https://eren-celik.medium.com" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="LinkedIn" /></a>
+  </div>
+</div>
+
   
 <a href="https://www.linkedin.com/in/erencelikk/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Medium" /></a>
   
