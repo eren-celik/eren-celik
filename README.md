@@ -40,7 +40,7 @@
   
 <a href="https://stackoverflow.com/users/13615372/eren-Çelik" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" alt="stackoverflow" /></a>
 
-
+<hr class="dashed">
 
 ### 📩 Contact Me ! 
 
