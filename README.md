@@ -22,10 +22,7 @@
 
 <hr class="dotted">
 
-### 📊 GitHub Analytics
-<p align="center">
-  ![](https://komarev.com/ghpvc/?username=erenlk&style=flat-square)
-</p>
+### 📊 GitHub Analytics  
 <p align="center">
 <a href="https://github.com/erenlk">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=erenlk&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="erenlk"/>
@@ -41,6 +38,7 @@
 <a href="https://eren-celik.medium.com" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
  <a href="https://www.linkedin.com/in/erencelikk/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://stackoverflow.com/users/13615372/eren-Çelik" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow" /></a>
+![](https://komarev.com/ghpvc/?username=erenlk&style=flat-square)
 
 <hr class="dotted">
 
