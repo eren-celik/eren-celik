@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eren</h1>
 <h3 align="center">Mobile Application Developer</h3>
-- 🔭 I’m currently working on BenzinLitre
 
 <hr class="dotted">
 
