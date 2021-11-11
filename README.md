@@ -48,6 +48,6 @@
 
 ### 🎧 Now Playing
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=elik.dark91tr&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=elik.dark91tr&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)]]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=elik.dark91tr&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
