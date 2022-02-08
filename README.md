@@ -32,7 +32,7 @@
 
 <hr class="dotted">
 
-[](./profile-3d-contrib/profile-night-rainbow.svg!)
+![alt text](https://github.com/eren-celik/eren-celik/blob/main/profile-3d-contrib/profile-night-green.svg?raw=true)
 
 ### 🤝🏻 Social
 
