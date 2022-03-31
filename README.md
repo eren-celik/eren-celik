@@ -19,9 +19,10 @@
 ![Firebase](https://img.shields.io/badge/firebase-05122A?style=for-the-badge&logo=firebase&logoColor=yellow)&nbsp;
 
 <hr class="dotted">
+
 ### Private Information's
 
-![dw](https://img.shields.io/badge/projects-27-white?style=for-the-badge&logo=appveyor)&nbsp;
+![dw](https://img.shields.io/badge/projects-27-white?style=for-the-badge)&nbsp;
 
 <hr class="dotted">
 
