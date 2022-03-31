@@ -20,7 +20,9 @@
 
 <hr class="dotted">
 ### Private Information's
-![](https://img.shields.io/badge/projects-27-white?style=for-the-badge&logo=appveyor)&nbsp;
+
+![dw](https://img.shields.io/badge/projects-27-white?style=for-the-badge&logo=appveyor)&nbsp;
+
 <hr class="dotted">
 
 ### 📊 GitHub Analytics  
