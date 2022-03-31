@@ -20,9 +20,9 @@
 
 <hr class="dotted">
 
-### Private Information's
+### 📕 Private Information's
 
-![dw](https://img.shields.io/badge/projects-27-white?style=for-the-badge)&nbsp;
+![](https://img.shields.io/badge/Repositories-27-white?style=for-the-badge)&nbsp;
 
 <hr class="dotted">
 
