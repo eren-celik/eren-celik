@@ -22,7 +22,7 @@
 
 ### 📕 Private Information's
 
-![](https://img.shields.io/badge/Repositories-27-white?style=for-the-badge)&nbsp;
+![](https://img.shields.io/badge/Repositories-31-white?style=for-the-badge)&nbsp;
 
 <hr class="dotted">
 
