@@ -20,9 +20,20 @@
 
 <hr class="dotted">
 
+### 🤝🏻 Social
+
+<div>
+<a href="https://eren-celik.medium.com" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+ <a href="https://www.linkedin.com/in/erencelikk/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://stackoverflow.com/users/13615372/eren-Çelik" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow"/></a>
+</div>
+
+<hr class="dotted">
+
 ### 📕 Private Information's
 
 ![](https://img.shields.io/badge/Repositories-31-white?style=for-the-badge)&nbsp;
+![](https://komarev.com/ghpvc/?username=erenlk&style=for-the-badge)
 
 <hr class="dotted">
 
@@ -34,21 +45,9 @@
 </a>
 </p>
 
-
-
 <hr class="dotted">
 
 ![alt text](https://github.com/eren-celik/eren-celik/blob/main/profile-3d-contrib/profile-night-green.svg?raw=true)
-
-<hr class="dotted">
-
-### 🤝🏻 Social
-
-
-<a href="https://eren-celik.medium.com" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
- <a href="https://www.linkedin.com/in/erencelikk/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://stackoverflow.com/users/13615372/eren-Çelik" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow" /></a>
-![](https://komarev.com/ghpvc/?username=erenlk&style=for-the-badge)
 
 <hr class="dotted">
 
